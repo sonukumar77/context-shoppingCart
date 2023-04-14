@@ -1,0 +1,9 @@
+.home-container {
+  padding: 1.5rem;
+}
+.home-container > h1 {
+  text-align: center;
+}
+.home-container > p {
+  margin-top: 1rem;
+}
